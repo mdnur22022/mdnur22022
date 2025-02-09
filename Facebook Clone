@@ -1,0 +1,5 @@
+apt update
+apt install git python python2 -y
+git clone https://github.com/htr-tech/pakcrack.git
+cd pakcrack
+Run : python2 crack.py
